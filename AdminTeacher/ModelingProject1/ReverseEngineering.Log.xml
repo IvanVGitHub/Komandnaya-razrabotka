@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///D:/ПРОГРАММЫ/MICROSOFT VISUAL STUDIO 2013 ULTIMATE/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Журнал создания кода/преобразования текста">
+  <MessageClass Name="Message" Label="Сообщение" Option="Показывать информационные сообщения" />
+  <MessageClass Name="Warning" Label="Предупреждение" Option="Показывать предупреждения" />
+  <MessageClass Name="Error" Label="Ошибка" Option="Показывать ошибки" />
+  <MessageClass Name="Property" Label="Свойство" Option="Показывать метаданные" />
+  <MessageClass Name="Diagnostic" Label="Сообщение" Option="Показывать диагностические сообщения" />
+  <Message Timestamp="2017-05-14T23:30:14" Importance="High" Text="Реконструирование запущено." />
+  <Message Timestamp="2017-05-14T23:30:14" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::AdminTeacher&quot; -  (Package)" />
+  <Message Timestamp="2017-05-14T23:30:14" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::AdminTeacher::WorkerAdded&quot; -  (Interface)" />
+  <Message Timestamp="2017-05-14T23:30:14" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::AdminTeacher::WorkerAdded::workerAdded&quot; -  (Operation)" />
+  <Message Timestamp="2017-05-14T23:30:14" Importance="High" Text="Полностью реконструировано (1) типов." />
+  <Message Timestamp="2017-05-14T23:30:14" Importance="High" Text="Операция реконструирования завершена; ошибок: (0), предупреждений: (0)." />
+</Log>

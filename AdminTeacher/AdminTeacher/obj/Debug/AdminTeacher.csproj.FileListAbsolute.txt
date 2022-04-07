@@ -1,0 +1,60 @@
+E:\1\AdminTeacher\AdminTeacher\bin\Debug\AdminTeacher.exe.config
+E:\1\AdminTeacher\AdminTeacher\bin\Debug\AdminTeacher.exe
+E:\1\AdminTeacher\AdminTeacher\bin\Debug\AdminTeacher.pdb
+E:\1\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.csprojResolveAssemblyReference.cache
+E:\1\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.LoginForm.resources
+E:\1\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.Properties.Resources.resources
+E:\1\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.csproj.GenerateResource.Cache
+E:\1\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.exe
+E:\1\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.pdb
+E:\1\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.MainForm.resources
+E:\1\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.AddAddress.resources
+E:\1\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.AddWorker.resources
+E:\1\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.Schedule.resources
+E:\1\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.AddSchedule.resources
+E:\1\AdminTeacher\AdminTeacher\bin\Debug\ExcelLibrary.dll
+C:\Users\ProPoLis\Desktop\AdminTeacher\AdminTeacher\bin\Debug\AdminTeacher.exe.config
+C:\Users\ProPoLis\Desktop\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.exe
+C:\Users\ProPoLis\Desktop\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.pdb
+C:\Users\ProPoLis\Desktop\AdminTeacher\AdminTeacher\bin\Debug\AdminTeacher.exe
+C:\Users\ProPoLis\Desktop\AdminTeacher\AdminTeacher\bin\Debug\AdminTeacher.pdb
+C:\Users\ProPoLis\Desktop\AdminTeacher\AdminTeacher\bin\Debug\ExcelLibrary.dll
+C:\Users\ProPoLis\Desktop\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.csprojResolveAssemblyReference.cache
+C:\Users\ProPoLis\Desktop\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.AddAddress.resources
+C:\Users\ProPoLis\Desktop\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.AddSchedule.resources
+C:\Users\ProPoLis\Desktop\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.AddWorker.resources
+C:\Users\ProPoLis\Desktop\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.LoginForm.resources
+C:\Users\ProPoLis\Desktop\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.MainForm.resources
+C:\Users\ProPoLis\Desktop\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.Properties.Resources.resources
+C:\Users\ProPoLis\Desktop\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.Schedule.resources
+C:\Users\ProPoLis\Desktop\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.csproj.GenerateResource.Cache
+C:\Users\ProPoLis\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\bin\Debug\AdminTeacher.exe.config
+C:\Users\ProPoLis\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.exe
+C:\Users\ProPoLis\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.pdb
+C:\Users\ProPoLis\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\bin\Debug\AdminTeacher.exe
+C:\Users\ProPoLis\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\bin\Debug\AdminTeacher.pdb
+C:\Users\ProPoLis\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\bin\Debug\ExcelLibrary.dll
+C:\Users\ProPoLis\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.csprojResolveAssemblyReference.cache
+C:\Users\ProPoLis\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.AddAddress.resources
+C:\Users\ProPoLis\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.AddSchedule.resources
+C:\Users\ProPoLis\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.AddWorker.resources
+C:\Users\ProPoLis\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.LoginForm.resources
+C:\Users\ProPoLis\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.MainForm.resources
+C:\Users\ProPoLis\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.Properties.Resources.resources
+C:\Users\ProPoLis\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.Schedule.resources
+C:\Users\ProPoLis\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.csproj.GenerateResource.Cache
+C:\Users\Иван\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\bin\Debug\AdminTeacher.exe.config
+C:\Users\Иван\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.exe
+C:\Users\Иван\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.pdb
+C:\Users\Иван\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\bin\Debug\AdminTeacher.exe
+C:\Users\Иван\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\bin\Debug\AdminTeacher.pdb
+C:\Users\Иван\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\bin\Debug\ExcelLibrary.dll
+C:\Users\Иван\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.csprojResolveAssemblyReference.cache
+C:\Users\Иван\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.AddAddress.resources
+C:\Users\Иван\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.AddSchedule.resources
+C:\Users\Иван\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.AddWorker.resources
+C:\Users\Иван\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.LoginForm.resources
+C:\Users\Иван\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.MainForm.resources
+C:\Users\Иван\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.Properties.Resources.resources
+C:\Users\Иван\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.Schedule.resources
+C:\Users\Иван\YandexDisk\Инста\8 семестр\8 семестр. Технол. команд. разр. прогр. сист\Контрольная\AdminTeacher\AdminTeacher\obj\Debug\AdminTeacher.csproj.GenerateResource.Cache

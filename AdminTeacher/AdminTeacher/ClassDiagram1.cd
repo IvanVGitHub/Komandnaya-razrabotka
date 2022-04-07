@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AdminTeacher.AddAddress">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAKCIABAAAACAAABCAAAcAAAAEGAQAAAAAAA=</HashCode>
+      <FileName>AddAddress.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdminTeacher.AddSchedule">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAIAEAEgSAAABAQAACAAABCJAAcAAAAFGAAAAAAAAA=</HashCode>
+      <FileName>AddSchedule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdminTeacher.AddWorker">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCACAAAAASAAABCAAACAAABCIAAcAAAAEGAQKAAAAAA=</HashCode>
+      <FileName>AddWorker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdminTeacher.DBHelper">
+    <Position X="2.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MIQIAEgAAAAAAAQAAFKAAAIAAAEAAICAAAAAASCEAAA=</HashCode>
+      <FileName>DBHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdminTeacher.LoginForm">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdminTeacher.MainForm" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8QCAQAYAMSAAQBgIRACAIBBCAPw70DsSgAAAAAABBAg=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AdminTeacher.Program">
+    <Position X="4" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAQAAAAAACAAQAAAAQBAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdminTeacher.Schedule" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAICAAAAAISACAAAACAAg4AAAAAHAAAAKAAAA=</HashCode>
+      <FileName>Schedule.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AdminTeacher.UserInfo">
+    <Position X="4" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAggAAAAIAAAAAIAAAggAAAAAAAAAgA=</HashCode>
+      <FileName>UserInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdminTeacher.UserSchedule">
+    <Position X="0.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAAgAAABAAAAAAAACAAAAACQAAAAAAAAgAAAAAAAAgA=</HashCode>
+      <FileName>UserSchedule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdminTeacher.Properties.Resources">
+    <Position X="0.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdminTeacher.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="AdminTeacher.AddressAdded">
+    <Position X="5.75" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>AddressAdded.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AdminTeacher.ScheduleAdded">
+    <Position X="2.25" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>ScheduleAdded.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AdminTeacher.WorkerAdded">
+    <Position X="4" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>WorkerAdded.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

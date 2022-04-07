@@ -1,0 +1,15 @@
+E:\1\AdminTeacher\AdminTeacherTest\bin\Debug\AdminTeacherTest.dll
+E:\1\AdminTeacher\AdminTeacherTest\bin\Debug\AdminTeacherTest.pdb
+E:\1\AdminTeacher\AdminTeacherTest\bin\Debug\AdminTeacher.exe
+E:\1\AdminTeacher\AdminTeacherTest\bin\Debug\AdminTeacher.pdb
+E:\1\AdminTeacher\AdminTeacherTest\obj\Debug\AdminTeacherTest.csprojResolveAssemblyReference.cache
+E:\1\AdminTeacher\AdminTeacherTest\obj\Debug\AdminTeacherTest.dll
+E:\1\AdminTeacher\AdminTeacherTest\obj\Debug\AdminTeacherTest.pdb
+C:\Users\ProPoLis\Desktop\AdminTeacher\AdminTeacherTest\bin\Debug\AdminTeacherTest.dll
+C:\Users\ProPoLis\Desktop\AdminTeacher\AdminTeacherTest\bin\Debug\AdminTeacherTest.pdb
+C:\Users\ProPoLis\Desktop\AdminTeacher\AdminTeacherTest\bin\Debug\AdminTeacher.exe
+C:\Users\ProPoLis\Desktop\AdminTeacher\AdminTeacherTest\bin\Debug\ExcelLibrary.dll
+C:\Users\ProPoLis\Desktop\AdminTeacher\AdminTeacherTest\bin\Debug\AdminTeacher.pdb
+C:\Users\ProPoLis\Desktop\AdminTeacher\AdminTeacherTest\obj\Debug\AdminTeacherTest.csprojResolveAssemblyReference.cache
+C:\Users\ProPoLis\Desktop\AdminTeacher\AdminTeacherTest\obj\Debug\AdminTeacherTest.dll
+C:\Users\ProPoLis\Desktop\AdminTeacher\AdminTeacherTest\obj\Debug\AdminTeacherTest.pdb
